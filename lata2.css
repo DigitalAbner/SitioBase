@@ -1,0 +1,21 @@
+body{
+    background-image:url(sam.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+button{
+    color: black;
+    font-size: 19px;
+    background-color: aqua;
+    
+}
+.galeria{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}

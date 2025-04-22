@@ -1,0 +1,36 @@
+body{
+    background-image:url(sam.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h1{
+    font-size: 35;
+    color: rgb(83, 8, 52);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+h2{
+    font-size: 25;
+    color: rgb(10, 76, 112);
+    text-align: left;
+}
+h3{
+    font-size: 20;
+    color: dodgerblue;
+    text-align: left;
+}
+p{
+    font-size: 18;
+    color: white;
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    color: black;
+    font-size: 19px;
+    background-color: aqua;
+}
